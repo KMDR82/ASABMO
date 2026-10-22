@@ -1,0 +1,5 @@
+,rank_all,rank_unimodal,rank_multimodal,rank_hybrid,rank_composition
+ABMO,3.345,3.0,3.571,3.2,3.444
++AS,1.862,1.667,1.714,1.8,2.111
++IA,3.517,4.0,3.429,3.6,3.333
++IA+AS,1.276,1.333,1.286,1.4,1.111
